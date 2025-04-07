@@ -96,7 +96,7 @@ const App = () => {
  
   return (
     <div className="container py-5">
-      <h1 className="text-center mb-5">Gestionnaire de Tâches</h1>
+      <h1 className="text-center mb-5">Gestionnaire de Tâches Edreams Factory</h1>
       {message && (
         <div className="alert alert-success text-center mb-4" role="alert">
           {message}
